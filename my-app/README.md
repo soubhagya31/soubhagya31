@@ -27,7 +27,7 @@ To set up this project locally, follow these steps:
 3. Install required dependencies
    ```sh
    npm install
-
+   
 4. Run the application:
    ```sh
    ng serve
